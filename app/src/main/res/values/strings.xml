@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NewsApplication</string>
+    <string name="search_article_hint">Search Article</string>
+    <string name="api_key">OKsEwghCzAPR3kRr7Hp51cFn2tMfXWgj</string>
+    <string name="title_of_article">Title of Article</string>
+    <string name="new_image_view">New Image View</string>
+    <string name="article_details">Article details</string>
+    <string name="share_button">Share Button</string>
+    <string name="share_subject">"Share NewsApp Article "</string>
+</resources>
